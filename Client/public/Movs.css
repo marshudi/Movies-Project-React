@@ -1,0 +1,101 @@
+.movie-list-container {
+    padding: 0 20px;
+  }
+  .movie-list-wrapper {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: -20px;
+  }
+  .movie-list-title {
+    margin-top: 40px;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+  }
+  .movie-list {
+    display: flex;
+    align-items: center;
+    height: 250px;
+  }
+  .movie-list-item {
+    margin-right: 20px;
+    position: relative;
+  }
+  .movie-list-item-img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  .movie-list-item:hover .movie-list-item-img {
+    transform: scale(0.9);
+    opacity: 0.5;
+  }
+  .movie-list-item:hover .movie-list-item-title,
+  .movie-list-item:hover .movie-list-item-desc,
+  .movie-list-item:hover .movie-list-item-button {
+    opacity: 1;
+  }
+  .movie-list-item-title {
+    background-color: #151515;
+    padding: 0 12px;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 15%;
+    left: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+  }
+  .movie-list-item-desc {
+    background-color: #151515;
+    padding: 12px;
+    font-size: 14px;
+    position: absolute;
+    top: 32%;
+    left: 25px;
+    width: 250px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+  }
+  .movie-list-item-button {
+    padding: 8px 10px;
+    background-color: #c7096b;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+    bottom: 18%;
+    left: 25px;
+    cursor: pointer;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+  }
+
+  .movie-list-item-button-delete {
+    padding: 8px 10px;
+    background-color: #c70909;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+    bottom: 18%;
+    left: 25px;
+    margin-right:230px ;
+    cursor: pointer;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+  }
