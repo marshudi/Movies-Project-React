@@ -33,3 +33,18 @@ first step
 *****in package.json add*****
 
 # "type": "module"
+
+
+________________________________________________________________________________________
+![home](https://github.com/marshudi/Movies-Project-React/assets/76883519/63edad75-0c04-4bc9-a5f8-882cfb9b4d58)
+
+
+![register](https://github.com/marshudi/Movies-Project-React/assets/76883519/1e21b7b9-81d1-4fb3-beda-62bf00746d24)
+
+
+![movies](https://github.com/marshudi/Movies-Project-React/assets/76883519/767bd464-eb4a-40ca-9a0a-668ef893c7b8)
+
+
+![login](https://github.com/marshudi/Movies-Project-React/assets/76883519/df6b93bd-3920-4734-b880-54a28daf615e)
+
+
