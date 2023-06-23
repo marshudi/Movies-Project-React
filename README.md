@@ -10,7 +10,7 @@ what is required on Client and Server
 
 
 
-**client**
+# **client**
 
 $ npm install bootstrap
 $ npm install react-router-dom@latest
@@ -18,11 +18,11 @@ $ npm intall axios
 
 ___________OR_____install all together______________
 
-# npm install bootstrap react-router-dom@latest axios
+# $ npm install bootstrap react-router-dom@latest axios
 
 
 _______________________________________________________________________________
-**server**
+# **server**
 
 first step 
 $ npm init
@@ -35,11 +35,11 @@ $ npm install cors
 
 ___________OR_____install all together______________
 
-$ npm install express mongoose cors
+# $ npm install express mongoose cors
 
 
 
 
 *****in package.json add*******
 
-"type": "module"
+# "type": "module"
