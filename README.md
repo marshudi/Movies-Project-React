@@ -40,6 +40,6 @@ ___________OR_____install all together______________
 
 
 
-*****in package.json add*******
+*****in package.json add*****
 
 # "type": "module"
