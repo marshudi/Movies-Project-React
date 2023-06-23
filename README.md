@@ -1,5 +1,5 @@
 First create a client as 
-$ npx create-react-app-Client
+$ npx create-react-app Client
 
 then paste all the client files in the created client 
 
